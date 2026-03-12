@@ -1,5 +1,7 @@
-
 git config --global user.name "alberto"
 git config --global user.email "albergygiltorres@gmail.com"
-
 git clone <https://github.com/albersietep/albersietep/new/main>
+git status
+git add <archivos>
+git add #Agrega todos los archivos
+git commit -m "mensaje de confirmacion"
