@@ -1,0 +1,5 @@
+
+git config --global user.name "alberto"
+git config --global user.email "albergygiltorres@gmail.com"
+
+git clone <https://github.com/albersietep/albersietep/new/main>
