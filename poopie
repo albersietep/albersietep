@@ -1,7 +1,13 @@
 git config --global user.name "alberto"
 git config --global user.email "albergygiltorres@gmail.com"
-git clone <https://github.com/albersietep/albersietep/new/main>
+git clone <https://github.com/albersietep/LND-GitHub/new/main>
 git status
-git add <archivos>
-git add #Agrega todos los archivos
-git commit -m "mensaje de confirmacion"
+git add <archivo>
+git add . # Agrega todos los archivos
+git commit -m "Mensaje de confirmación"
+git push origin <rama>
+git pull origin <rama>
+git branch -av
+git branch <nombre_de_rama>
+git checkout <nombre_de_rama>
+git merge <rama_origen>
